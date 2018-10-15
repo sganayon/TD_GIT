@@ -1,3 +1,4 @@
-Test
-> Contributors
-> Bakoura
+Contributors:
+Axel Poulat
+Bakoura
+
