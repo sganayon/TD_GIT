@@ -1,4 +1,4 @@
 Contributors:
 Axel Poulat
-Bakoura
+Bakoura Ibrahima
 
